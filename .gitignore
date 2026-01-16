@@ -4,6 +4,11 @@
 env/
 __pycache__/
 
-.ipynb_checkpoints
+*.ipynb_checkpoints
 .vscode/
-.DS_Store
+*.DS_Store
+
+.csv
+*.csv
+
+*.image.png
