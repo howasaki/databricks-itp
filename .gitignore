@@ -10,6 +10,7 @@ __pycache__/
 
 .csv
 *.csv
+*.parquet
 
 *.image.png
 output/
